@@ -63,4 +63,5 @@ while True:
         else:
             #ran out of guesses
             print("Sorry!",computer_selected, "was the correct combination.")
+            complete = True
                 
